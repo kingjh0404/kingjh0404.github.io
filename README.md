@@ -39,4 +39,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### 블로그
 
 클릭해주세요
-[Link](https://kingjh0404.github.io/blog/2022/05/02/my-first-post.html)
+[link](https://kingjh0404.github.io/blog/2022/05/02/my-first-post.html)
